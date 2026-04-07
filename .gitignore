@@ -1,0 +1,44 @@
+# IDE and Tooling
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath/
+.project/
+
+# Build and Dependencies
+build/
+bin/
+out/
+.gradle/
+target/
+dist/
+node_modules/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Logs and Temp
+*.log
+*.tmp
+*.bak
+dump.rdb
+
+# Compiled Class Files
+*.class
+
+# Subproject build folders
+demo/demo/build/
+demo/demo/.gradle/
+test/build/
+test/.gradle/
+
+# Environment
+.env
+.env.local
+
+# Docker Log/Data
+docker/data/
